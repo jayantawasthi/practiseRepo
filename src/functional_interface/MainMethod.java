@@ -45,6 +45,9 @@ public class MainMethod {
         System.out.println("again  changed by branch2");
         System.out.println("again  changed by branch2");
 
+        System.out.println("update by   changed by branch1");
+        System.out.println("update   changed by branch1");
+
 
     }
 }
