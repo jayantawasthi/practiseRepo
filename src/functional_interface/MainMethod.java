@@ -7,6 +7,7 @@ public class MainMethod {
         Consumer consumer = (a) -> System.out.println("hello " + a);
         consumer.accept("sham bahadur");
 
+
         Predicate<String> predicate = (a) ->a.contains("s");
         boolean test = predicate.test("hello");
         System.out.println();
@@ -24,22 +25,7 @@ public class MainMethod {
         System.out.println(supplier.get());
 
 
-        System.out.println("this is changed by branch1");
-
-        System.out.println("again  changed by branch1");
-        System.out.println("this is changed by branch1");
-        System.out.println("again  changed by branch1");
-
-        System.out.println("hello world");
-<<<<<<< HEAD
-        System.out.println("changes by branch1");
-
-
-=======
-        System.out.println(supplier.get());
-
-        System.out.println("hello world");
->>>>>>> branch2
+        System.out.println("sfsfsf");
 
     }
 }
