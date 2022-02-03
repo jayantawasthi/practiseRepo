@@ -24,8 +24,11 @@ public class MainMethod {
 
         System.out.println(supplier.get());
 
-
-        System.out.println("sfsfsf");
+        System.out.println("this is changed by branch1");
+        System.out.println("again  changed by branch1");
+        System.out.println("this is changed by branch1");
+        System.out.println("again  changed by branch1");
+        System.out.println("again  changed by branch1");
 
     }
 }
