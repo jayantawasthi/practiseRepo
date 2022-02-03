@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8.iml" filepath="$PROJECT_DIR$/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WICC_EXERCISE/WICC_ExerCise.iml" filepath="$PROJECT_DIR$/../WICC_EXERCISE/WICC_ExerCise.iml" />
+      <module fileurl="file://F:/Zero/Zero.iml" filepath="F:/Zero/Zero.iml" />
+    </modules>
+  </component>
+</project>
