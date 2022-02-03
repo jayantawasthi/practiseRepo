@@ -25,6 +25,7 @@ public class MainMethod {
         System.out.println(supplier.get());
 
         System.out.println("this is changed by branch1");
+        System.out.println("again  changed by branch1");
 
     }
 }
