@@ -25,6 +25,9 @@ public class MainMethod {
         System.out.println(supplier.get());
 
         System.out.println("hello world");
+        System.out.println(supplier.get());
+
+        System.out.println("hello world");
 
     }
 }
