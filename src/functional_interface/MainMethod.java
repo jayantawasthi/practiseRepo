@@ -31,9 +31,15 @@ public class MainMethod {
         System.out.println("again  changed by branch1");
 
         System.out.println("hello world");
+<<<<<<< HEAD
         System.out.println("changes by branch1");
 
 
+=======
+        System.out.println(supplier.get());
+
+        System.out.println("hello world");
+>>>>>>> branch2
 
     }
 }
